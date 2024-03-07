@@ -19,7 +19,8 @@
 - Customisable welcome & Forcesub messages.
 - More than one Posts in One Link.
 - Can be deployed on heroku directly.
-
+###deploy
+https://heroku.com/deploy
 ### Setup
 
 - Add the bot to Database Channel with all permission
